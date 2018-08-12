@@ -14,26 +14,6 @@
       "id": 3,
       "title": "Post Three",
       "body": "This is post Three"
-    },
-    {
-      "title": "Book One",
-      "body": "Post 1",
-      "id": 4
-    },
-    {
-      "title": "Book One",
-      "body": "Book",
-      "id": 5
-    },
-    {
-      "title": "Book One",
-      "body": "Book",
-      "id": 6
-    },
-    {
-      "title": "Book Two",
-      "body": "Book Two",
-      "id": 7
     }
   ]
 }
